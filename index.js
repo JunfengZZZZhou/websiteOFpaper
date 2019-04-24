@@ -4,6 +4,6 @@ window.onload = function() {
   x.setAttribute ("width", "640");
   x.setAttribute ("height", "480");
   x.setAttribute ("controls", "controls");
-  x/setAttribute ("src", "src/videoForIcira.mp4");
+  x.setAttribute ("src", "src/videoForIcira.mp4");
   document.body.appendChild(x);
 }
