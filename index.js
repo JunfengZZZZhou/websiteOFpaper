@@ -5,5 +5,7 @@ window.onload = function() {
   x.setAttribute ("height", "960");
   x.setAttribute ("controls", "controls");
   x.setAttribute ("src", "src/videoForIcira.mp4");
+  <p align="center">
   document.body.appendChild(x);
+  </P>
 }
